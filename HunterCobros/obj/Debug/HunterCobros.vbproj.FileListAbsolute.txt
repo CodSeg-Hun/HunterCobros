@@ -1,0 +1,14 @@
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\bin\HunterCobros.dll
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\bin\HunterCobros.pdb
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\bin\HunterCobros.xml
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\bin\Microsoft.Office.Interop.Outlook.dll
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\bin\office.dll
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\bin\Microsoft.Office.Interop.Outlook.xml
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\bin\office.xml
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\obj\Debug\HunterCobros.vbprojResolveAssemblyReference.cache
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\obj\Debug\HunterCobros.Resources.resources
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\obj\Debug\HunterCobros.vbproj.GenerateResource.Cache
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\obj\Debug\HunterCobros.dll.licenses
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\obj\Debug\HunterCobros.dll
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\obj\Debug\HunterCobros.xml
+C:\DESARROLLO_TALLER\3S_Web\HunterCobros\HunterCobros\obj\Debug\HunterCobros.pdb
